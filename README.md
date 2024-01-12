@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavankumarshridhar31
 - 👀 I am passionate about Data Science, Machine Learning, and Mechanical Engineering, and I actively explore and contribute to projects related to these interests
-- 📫 How to reach me-pavankumarshridhar@gmail.com
+- 📫 How to reach me - pavankumarshridhar@gmail.com
 
 
 <!---
