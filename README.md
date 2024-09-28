@@ -3,7 +3,7 @@
 - 📫 How to reach me - pavankumarshridhar@gmail.com
 - Kaggle Portfolio:https://www.kaggle.com/pavankumar4757  30+ Data Science Projects | 🥉 17+ Bronze Medals in Kaggle | Computer Vision | Machine Learning | Deep Learning | Data Engineering | Data Science
 - linkedin : https://www.linkedin.com/in/pavan-kumar-shridhar
-- HackerRank profile : https://www.hackerrank.com/profile/pavankumarshrid4
+- HackerRank profile : https://www.hackerrank.com/profile/pavankumars
   
 
 
