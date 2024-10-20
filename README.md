@@ -4,6 +4,7 @@
 - Kaggle Portfolio:https://www.kaggle.com/pavankumar4757  34+ Data Science Projects |1 Silver 🥈 and 🥉 20+ Bronze Medals in Kaggle | Computer Vision | Machine Learning | Deep Learning | Data Engineering | Data Science | Data analytics
 - linkedin : https://www.linkedin.com/in/pavan-kumar-shridhar
 - HackerRank profile : https://www.hackerrank.com/profile/pavankumars
+- Portfolio https://www.datascienceportfol.io/pavankumarshridhar
   
 
 
