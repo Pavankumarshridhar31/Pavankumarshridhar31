@@ -6,7 +6,7 @@
 - HackerRank profile : https://www.hackerrank.com/profile/pavankumars
 - Portfolio https://www.datascienceportfol.io/pavankumarshridhar
   
-![Snake animation](https://github.com/pavankumarshridhar31/pavankumarshridhar31/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
