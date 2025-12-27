@@ -1,18 +1,92 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar S</h1>
-<h3 align="center">👀 I am deeply passionate about Data Science, Machine Learning, Generative AI, and Data Analytics. I enjoy exploring the intersection of AI and data-driven insights to solve complex problems, leverage predictive modeling, and uncover hidden patterns. My interests also extend to statistical analysis, data visualization, and developing innovative AI solutions that drive impactful business decisions . 46+ Data Science Projects |  🥉 30+ Bronze Medals in Kaggle | Computer Vision | Machine Learning | Deep Learning | Data Engineering | Data Science | Data analytics</h3>
+<h1 align="center">👋 Hi, I'm Pavan Kumar S</h1>
+<h3 align="center">
+Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pavankumarshridhar31](https://github.com/Pavankumarshridhar31),https://www.kaggle.com/pavankumar4757
-
-- 📫 How to reach me **pavankumarshridhar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pavan-kumar-shridhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kumar-shridhar" height="30" width="40" /></a>
-<a href="https://kaggle.com/pavankumar4757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pavankumar4757" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pavankumars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pavankumars" height="30" width="40" /></a>
+<p align="center">
+🚀 Turning data into insights • 🤖 Building intelligent systems • 📊 Driving data-driven decisions
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankumarshridhar31&show_icons=true&locale=en&layout=compact" alt="pavankumarshridhar31" /></p>
+## 👨‍💻 About Me
+
+🔹 I am deeply passionate about **Data Science, Machine Learning, Deep Learning, Computer Vision, Generative AI, and Data Analytics**.  
+🔹 I enjoy solving **real-world problems** using **predictive modeling, statistical analysis, and AI-driven insights**.  
+🔹 Experienced in **end-to-end ML pipelines** — from data collection and EDA to model deployment.  
+
+🏆 **Achievements**
+- ✅ **46+ Data Science & Machine Learning Projects**
+- 🥉 **30+ Bronze Medals on Kaggle**
+- 📈 Strong background in **Data Analytics & Visualization**
+- 🔍 Hands-on with **industry-relevant datasets & real-world use cases**
+
+---
+
+## 🔗 Portfolio & Profiles
+
+- 💻 **GitHub:** [github.com/Pavankumarshridhar31](https://github.com/Pavankumarshridhar31)
+- 📊 **Kaggle:** [kaggle.com/pavankumar4757](https://www.kaggle.com/pavankumar4757)
+- 📧 **Email:** **pavankumarshridhar@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/pavan-kumar-shridhar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/pavankumar4757" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/pavankumars" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pavankumarshridhar31&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankumarshridhar31&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- 🔹 Advanced Machine Learning & Deep Learning Projects  
+- 🔹 Generative AI & LLM-based Applications  
+- 🔹 Computer Vision & Real-Time Analytics  
+- 🔹 End-to-End Data Science Pipelines  
+
+---
+
+⭐ *If you like my work, consider giving my repositories a star!* ⭐
