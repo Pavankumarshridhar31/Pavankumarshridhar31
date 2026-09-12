@@ -1,354 +1,385 @@
+<!-- =========================================================
+     🧠 PAVAN KUMAR S — AI / ML ENGINEERING PROFILE
+     ========================================================= -->
+
 <div align="center">
 
-<img src="assets/neural-banner.gif" alt="Neural Network Banner — Data to Model to Inference to Insight" width="100%"/>
+<img src="assets/neural-banner.gif"
+  alt="Neural Network — Data to Model to Deployment"
+  width="100%"/>
 
 <br/>
 
-<img src="assets/avatar.gif" alt="Pavan Kumar S" width="150" style="border-radius:50%;"/>
+<img src="assets/avatar.gif"
+  alt="Pavan Kumar S"
+  width="145"
+  style="border-radius:50%;"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pavan+Kumar+S;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+AI+Systems+from+Data+to+Deployment" />
 
 <br/>
 
-**● ACTIVE IN AI / DATA SCIENCE**
+<h3>
+🧠 Data Scientist &nbsp;•&nbsp;
+🤖 ML Engineer &nbsp;•&nbsp;
+🧬 Deep Learning &nbsp;•&nbsp;
+⚡ Generative AI
+</h3>
+
+<p>
+Building intelligent systems across
+<b>Machine Learning · Deep Learning · NLP · Generative AI · Physiological Data · MLOps</b>
+</p>
 
 <br/>
-
-# 👋 Hi, I'm Pavan Kumar S
-
-### Data Scientist&nbsp;|&nbsp;Machine Learning Engineer&nbsp;|&nbsp;Deep Learning&nbsp;|&nbsp;NLP&nbsp;|&nbsp;Generative AI
 
 <a href="https://github.com/Pavankumarshridhar31">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=Data+Scientist;Deep+Learning+Engineer;NLP+%26+Generative+AI;Physiological+Data+Analytics;Machine+Learning+Researcher" alt="Typing SVG"/>
+<img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pavan-kumar-shridhar">
+<img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.kaggle.com/pavankumar4757">
+<img src="https://img.shields.io/badge/Kaggle-0A0F1C?style=for-the-badge&logo=kaggle&logoColor=22D3EE"/>
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=nXogY64AAAAJ&view_op=list_works">
+<img src="https://img.shields.io/badge/Google_Scholar-0A0F1C?style=for-the-badge&logo=googlescholar&logoColor=A78BFA"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Pavankumarshridhar31"><img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
-<a href="https://www.linkedin.com/in/pavan-kumar-shridhar"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="https://www.kaggle.com/pavankumar4757"><img src="https://img.shields.io/badge/Kaggle-0A0F1C?style=for-the-badge&logo=kaggle&logoColor=22D3EE" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=nXogY64AAAAJ&view_op=list_works"><img src="https://img.shields.io/badge/Google_Scholar-0A0F1C?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" /></a>
-<a href="https://www.hackerrank.com/pavankumars"><img src="https://img.shields.io/badge/HackerRank-0A0F1C?style=for-the-badge&logo=hackerrank&logoColor=22D3EE" /></a>
-<a href="mailto:pavankumarshridhar@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=Pavankumarshridhar31&style=for-the-badge&color=0A0F1C&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-<br/>
+# 🧬 Professional Snapshot
 
 <div align="center">
 
-### 🧬 Professional Snapshot
+### Data → Intelligence → Deployment → Impact
 
-`Data Scientist` · `Deep Learning` · `Machine Learning` · `NLP` · `Generative AI`
-`Physiological Time-Series` · `HRV Analysis` · `Predictive Modeling` · `MLOps`
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-I am a **Data Scientist** working across **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Generative AI**, and **Data Analytics**. My current work focuses on **physiological time-series analysis**, **multimodal data**, **HRV-based feature engineering**, **early physiological-event prediction**, **predictive analytics**, and **VCO₂ estimation**. I enjoy building end-to-end ML systems — from data preprocessing and feature engineering through modeling, evaluation, and deployment.
-
-<br/>
-
-## 🧠 Current Focus
-
-```
-
-Physiological Time-Series
-        ↓
-Signal Processing
-        ↓
-HRV / Feature Engineering
-        ↓
-Multimodal Learning
-        ↓
-Temporal Deep Learning
-        ↓
-Predictive Modeling
-
-```
-
-<div align="center">
-
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A0F1C?style=flat-square&labelColor=0A0F1C&color=22D3EE)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0F1C?style=flat-square&labelColor=0A0F1C&color=A78BFA)
-![HRV Analysis](https://img.shields.io/badge/HRV_Analysis-0A0F1C?style=flat-square&labelColor=0A0F1C&color=22D3EE)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-0A0F1C?style=flat-square&labelColor=0A0F1C&color=A78BFA)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-0A0F1C?style=flat-square&labelColor=0A0F1C&color=22D3EE)
-![Multimodal Learning](https://img.shields.io/badge/Multimodal_Learning-0A0F1C?style=flat-square&labelColor=0A0F1C&color=A78BFA)
-![Temporal Modeling](https://img.shields.io/badge/Temporal_Modeling-0A0F1C?style=flat-square&labelColor=0A0F1C&color=22D3EE)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-0A0F1C?style=flat-square&labelColor=0A0F1C&color=A78BFA)
-![VCO2 Estimation](https://img.shields.io/badge/VCO₂_Estimation-0A0F1C?style=flat-square&labelColor=0A0F1C&color=22D3EE)
-![MLOps](https://img.shields.io/badge/MLOps-0A0F1C?style=flat-square&labelColor=0A0F1C&color=A78BFA)
+**Machine Learning** · **Deep Learning** · **NLP** · **Generative AI**
+**Physiological Time-Series** · **HRV Analysis** · **Predictive Modeling**
+**AI Agents** · **MLOps** · **CI/CD** · **Production Deployment**
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
+# 👨‍💻 About Me
 
-## 💼 Professional Experience
+I am a **Data Scientist and Machine Learning Engineer** working across **Machine Learning, Deep Learning, Natural Language Processing, Generative AI, and Data Analytics**.
 
-### Data Scientist
-**IHPL — Defence Bioengineering and Electromedical Laboratory (DRDO)**
-`Mar 2025 – Present` · Bengaluru, India
+My work focuses on transforming complex data into intelligent, deployable systems — from **data preprocessing and feature engineering** to **model development, evaluation, optimization, and production deployment**.
+
+My current interests include:
+
+* 🧬 Physiological time-series analysis
+* ❤️ HRV-based feature engineering
+* 📈 Predictive modeling
+* 🧠 Temporal & multimodal deep learning
+* 🫁 Physiological-event prediction
+* ⚗️ VCO₂ estimation
+* 🤖 Generative AI & LLM applications
+* 🔎 NLP & biomedical information extraction
+* 🕸️ AI agents and autonomous systems
+* ⚙️ MLOps, CI/CD & model deployment
+
+> **I enjoy building AI systems that move beyond notebooks — from raw data to reproducible models and real-world applications.**
+
+---
+
+# 💼 Professional Experience
+
+## 🧠 Data Scientist
+
+### IHPL — Defence Bioengineering and Electromedical Laboratory (DRDO)
+
+**Mar 2025 – Present · Bengaluru, India**
 
 Working on AI/ML and deep-learning applications involving physiological and operational datasets.
 
-- Developing deep-learning and machine-learning approaches for physiological time-series analysis
-- Working with physiological signals and HRV-based feature engineering
-- Building preprocessing and signal-analysis pipelines
-- Applying multimodal and temporal modeling approaches
-- Working on early physiological-event prediction
-- Applying machine-learning methods for VCO₂ estimation
-- Performing feature engineering, statistical analysis and predictive modeling
-- Working with model evaluation, optimization, MLOps and CI/CD
+**Core responsibilities**
 
-<br/>
+* 🧠 Developing ML and deep-learning approaches for physiological time-series analysis
+* ❤️ Working with physiological signals and HRV-based feature engineering
+* ⚙️ Building preprocessing and signal-analysis pipelines
+* 🔗 Applying multimodal and temporal modeling approaches
+* 🚨 Working on early physiological-event prediction
+* 🫁 Applying machine-learning methods for VCO₂ estimation
+* 📊 Performing feature engineering, statistical analysis and predictive modeling
+* 🚀 Model evaluation, optimization and deployment
+* ⚙️ MLOps and CI/CD workflows
 
-### NLP Research Intern
-**Defence Bioengineering and Electromedical Laboratory (DEBEL), DRDO**
-`Oct 2022 – Apr 2023` · Bengaluru, India
+---
 
-- BioBERT fine-tuning
-- Named Entity Recognition
-- Biomedical NLP
-- Information extraction
-- CUI extraction
-- Biomedical document processing
-- NLP pipelines
-- Model evaluation
-- CI/CD
+## 🔬 NLP Research Intern
 
-<br/>
+### Defence Bioengineering and Electromedical Laboratory (DEBEL), DRDO
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
+**Oct 2022 – Apr 2023 · Bengaluru, India**
 
-## 🚀 Featured Projects
+* 🤗 BioBERT fine-tuning
+* 🏷️ Named Entity Recognition
+* 🧬 Biomedical NLP
+* 🔎 Information extraction
+* 🧩 CUI extraction
+* 📄 Biomedical document processing
+* 🔄 NLP pipelines
+* 📊 Model evaluation
+* ⚙️ CI/CD
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 01 — Autonomous Web Scraper Agent with AI-Powered Analysis
+## 🤖 Autonomous Web Scraper Agent
+
 **AI Agents · Generative AI · Web Scraping · Data Analysis**
 
-An autonomous AI-powered web scraping and analysis project designed to collect web information, process extracted content and generate intelligent insights.
+An autonomous AI-powered system designed to collect web information, process extracted content and generate intelligent insights.
 
-`Python` `AI Agents` `Generative AI` `LLMs` `Web Scraping` `Data Extraction` `Data Analysis`
+**Stack**
 
-**[🔗 View Project](https://github.com/Pavankumarshridhar31/Autonomous-Web-Scraper-Agent-with-AI-Powered-Analysis)**
+Python · AI Agents · LLMs · Generative AI · Web Scraping · Data Extraction · Data Analysis
+
+<br/>
+
+<a href="https://github.com/Pavankumarshridhar31/Autonomous-Web-Scraper-Agent-with-AI-Powered-Analysis">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0A0F1C?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 02 — IoT-enabled CNC Thermal Behavior Prediction Model
+## 🌡️ IoT CNC Thermal Prediction
+
 **IoT · Deep Learning · Predictive Analytics · Manufacturing**
 
-Developed a hybrid deep-learning model for Z-axis thermal deformation prediction using IoT-based data collection for manufacturing process optimization.
+Hybrid deep-learning model for **Z-axis thermal deformation prediction** using IoT-based data collection for manufacturing optimization.
 
-Published in *International Journal of Grid and Utility Computing*
-**Highlight:** RMSE within 0.9 µm under variable thermal conditions.
+### 📊 Result
 
-`IoT` `Deep Learning` `Machine Learning` `Predictive Modeling` `Thermal Analysis` `Manufacturing`
+**RMSE within 0.9 µm**
 
-**[📄 View Publication](https://doi.org/10.1504/ijguc.2024.10061721)**
+Published in the **International Journal of Grid and Utility Computing**.
+
+<br/>
+
+<a href="https://doi.org/10.1504/ijguc.2024.10061721">
+
+<img src="https://img.shields.io/badge/VIEW_PUBLICATION-0A0F1C?style=for-the-badge&logo=readthedocs&logoColor=A78BFA"/>
+
+</a>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-## 🛠️ AI / Data Science Stack
-
-**🤖 Generative AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C1C2E?style=flat-square&logo=langchain&logoColor=22D3EE)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1C1C2E?style=flat-square&logo=openai&logoColor=A78BFA)
-![HuggingFace](https://img.shields.io/badge/HF_Transformers-1C1C2E?style=flat-square&logo=huggingface&logoColor=22D3EE)
-![RAG](https://img.shields.io/badge/RAG-1C1C2E?style=flat-square&color=A78BFA)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1C1C2E?style=flat-square&color=22D3EE)
-![Chatbots](https://img.shields.io/badge/Fine--tuned_Chatbots-1C1C2E?style=flat-square&color=A78BFA)
-![Summarization](https://img.shields.io/badge/Text_Summarization-1C1C2E?style=flat-square&color=22D3EE)
-![Embeddings](https://img.shields.io/badge/Contextual_Embeddings-1C1C2E?style=flat-square&color=A78BFA)
-![GenAI](https://img.shields.io/badge/Generative_AI-1C1C2E?style=flat-square&color=22D3EE)
-
-**🧠 Machine Learning & Deep Learning**
-
-![Sklearn](https://img.shields.io/badge/scikit--learn-1C1C2E?style=flat-square&logo=scikit-learn&logoColor=A78BFA)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1C1C2E?style=flat-square&logo=tensorflow&logoColor=22D3EE)
-![PyTorch](https://img.shields.io/badge/PyTorch-1C1C2E?style=flat-square&logo=pytorch&logoColor=A78BFA)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1C1C2E?style=flat-square&color=22D3EE)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1C1C2E?style=flat-square&color=A78BFA)
-![Model Optimization](https://img.shields.io/badge/Model_Optimization-1C1C2E?style=flat-square&color=22D3EE)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-1C1C2E?style=flat-square&color=A78BFA)
-![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-1C1C2E?style=flat-square&color=22D3EE)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1C1C2E?style=flat-square&color=A78BFA)
-![Evaluation Metrics](https://img.shields.io/badge/Evaluation_Metrics-1C1C2E?style=flat-square&color=22D3EE)
-![Temporal Deep Learning](https://img.shields.io/badge/Temporal_Deep_Learning-1C1C2E?style=flat-square&color=A78BFA)
-
-**🧬 Natural Language Processing**
-
-![NER](https://img.shields.io/badge/NER-1C1C2E?style=flat-square&color=22D3EE)
-![BioBERT](https://img.shields.io/badge/BioBERT-1C1C2E?style=flat-square&color=A78BFA)
-![Text Classification](https://img.shields.io/badge/Text_Classification-1C1C2E?style=flat-square&color=22D3EE)
-![Information Extraction](https://img.shields.io/badge/Information_Extraction-1C1C2E?style=flat-square&color=A78BFA)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-1C1C2E?style=flat-square&color=22D3EE)
-![Tokenization](https://img.shields.io/badge/Tokenization-1C1C2E?style=flat-square&color=A78BFA)
-![Embedding Models](https://img.shields.io/badge/Embedding_Models-1C1C2E?style=flat-square&color=22D3EE)
-
-**📊 Data Science & Analytics**
-
-![EDA](https://img.shields.io/badge/EDA-1C1C2E?style=flat-square&color=A78BFA)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-1C1C2E?style=flat-square&color=22D3EE)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-1C1C2E?style=flat-square&color=A78BFA)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-1C1C2E?style=flat-square&color=22D3EE)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1C1C2E?style=flat-square&logo=plotly&logoColor=A78BFA)
-![Plotly](https://img.shields.io/badge/Plotly-1C1C2E?style=flat-square&logo=plotly&logoColor=22D3EE)
-![Seaborn](https://img.shields.io/badge/Seaborn-1C1C2E?style=flat-square&color=A78BFA)
-![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-1C1C2E?style=flat-square&color=22D3EE)
-![Trend Analysis](https://img.shields.io/badge/Trend_Analysis-1C1C2E?style=flat-square&color=A78BFA)
-
-**⚙️ MLOps & Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-1C1C2E?style=flat-square&logo=streamlit&logoColor=22D3EE)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C1C2E?style=flat-square&logo=fastapi&logoColor=A78BFA)
-![Docker](https://img.shields.io/badge/Docker-1C1C2E?style=flat-square&logo=docker&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-1C1C2E?style=flat-square&logo=git&logoColor=A78BFA)
-![MLflow](https://img.shields.io/badge/MLflow-1C1C2E?style=flat-square&logo=mlflow&logoColor=22D3EE)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-1C1C2E?style=flat-square&color=A78BFA)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1C1C2E?style=flat-square&color=22D3EE)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1C1C2E?style=flat-square&color=A78BFA)
-
-**🗄️ Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1C1C2E?style=flat-square&logo=mongodb&logoColor=22D3EE)
-![MySQL](https://img.shields.io/badge/MySQL-1C1C2E?style=flat-square&logo=mysql&logoColor=A78BFA)
-![SQL Optimization](https://img.shields.io/badge/SQL_Query_Optimization-1C1C2E?style=flat-square&color=22D3EE)
-
-**💻 Programming**
-
-![Python](https://img.shields.io/badge/Python-1C1C2E?style=flat-square&logo=python&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-1C1C2E?style=flat-square&logo=postgresql&logoColor=A78BFA)
-![R](https://img.shields.io/badge/R-1C1C2E?style=flat-square&logo=r&logoColor=22D3EE)
-
-**☁️ Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-1C1C2E?style=flat-square&logo=jupyter&logoColor=A78BFA)
-![VS Code](https://img.shields.io/badge/VS_Code-1C1C2E?style=flat-square&logo=visualstudiocode&logoColor=22D3EE)
-![Colab](https://img.shields.io/badge/Google_Colab-1C1C2E?style=flat-square&logo=googlecolab&logoColor=A78BFA)
-![GitHub](https://img.shields.io/badge/GitHub-1C1C2E?style=flat-square&logo=github&logoColor=22D3EE)
-![Azure](https://img.shields.io/badge/Azure-1C1C2E?style=flat-square&logo=microsoftazure&logoColor=A78BFA)
-![GCP](https://img.shields.io/badge/Google_Cloud-1C1C2E?style=flat-square&logo=googlecloud&logoColor=22D3EE)
-
-**🫀 Physiological / Research Skills**
-
-![Physiological Signal Analysis](https://img.shields.io/badge/Physiological_Signal_Analysis-1C1C2E?style=flat-square&color=A78BFA)
-![HRV Analysis](https://img.shields.io/badge/HRV_Analysis-1C1C2E?style=flat-square&color=22D3EE)
-![Multimodal Time-Series](https://img.shields.io/badge/Multimodal_Time--Series-1C1C2E?style=flat-square&color=A78BFA)
-![Temporal Modeling](https://img.shields.io/badge/Temporal_Modeling-1C1C2E?style=flat-square&color=22D3EE)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-1C1C2E?style=flat-square&color=A78BFA)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-1C1C2E?style=flat-square&color=22D3EE)
-![VCO2 Estimation](https://img.shields.io/badge/VCO₂_Estimation-1C1C2E?style=flat-square&color=A78BFA)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-1C1C2E?style=flat-square&color=22D3EE)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1C1C2E?style=flat-square&color=A78BFA)
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-## 🔬 Research & Publications
-
-**IoT-enabled CNC Thermal Behavior Prediction Model**
-*International Journal of Grid and Utility Computing*
-DOI: [10.1504/ijguc.2024.10061721](https://doi.org/10.1504/ijguc.2024.10061721)
-
-`Deep Learning` `IoT` `Thermal Deformation Prediction` `Predictive Analytics` `Machine Learning` `Manufacturing`
-
-**Research interests:**
-`Physiological Signal Analysis` `HRV` `Multimodal Time-Series` `Early Physiological Event Prediction` `VCO₂ Estimation` `Deep Learning` `NLP` `Generative AI`
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-## 🏆 Achievements
+# ⚙️ MLOps, Deployment & Production AI
 
 <div align="center">
 
-| 🚀 Projects | 🥉 Kaggle Medals | 📈 Kaggle Rank | 🏅 Competition |
-|:---:|:---:|:---:|:---:|
-| 46+ Data Science & ML Projects | 30+ Bronze Medals | Rank 132 | 1st Place — TechnFest 2018 |
+### From Model Training → API → Cloud → Production
 
 </div>
 
-*TechnFest 2018 — 1st Place, Poultry Garbage Chipping Machine Project*
+### 🧪 MLOps
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-22D3EE?style=flat-square&logo=githubactions&logoColor=black"/>
+<img src="https://img.shields.io/badge/Model_Serving-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Monitoring-A78BFA?style=flat-square"/>
+</p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
+### 🚀 Deployment & Production
 
-## 📊 GitHub Analytics
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=0A0F1C"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_APIs-22D3EE?style=flat-square"/>
+</p>
+
+> **Vercel:** Frontend / web application deployment
+> **Render:** Backend, API and ML inference deployment
+> **MLOps:** Reproducibility, CI/CD, model serving, monitoring and production workflows
+
+---
+
+# 🤖 Generative AI & LLM Engineering
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-FF9800?style=flat-square"/>
+</p>
+
+---
+
+# 🧠 Machine Learning & Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Optimization-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hyperparameter_Tuning-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistical_Modeling-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Temporal_Deep_Learning-FF5722?style=flat-square"/>
+</p>
+
+---
+
+# 🧬 Natural Language Processing
+
+<p>
+<img src="https://img.shields.io/badge/BioBERT-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/NER-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Biomedical_NLP-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text_Classification-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Information_Extraction-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tokenization-E91E63?style=flat-square"/>
+</p>
+
+---
+
+# 📊 Data Science & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-22D3EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistical_Analysis-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+# 🛠️ Technology Stack
+
+| Domain               | Technologies                                                    |
+| -------------------- | --------------------------------------------------------------- |
+| **Languages**        | Python · SQL                                                    |
+| **Machine Learning** | Scikit-learn · Statistical Modeling                             |
+| **Deep Learning**    | PyTorch · TensorFlow                                            |
+| **NLP**              | BioBERT · NER · Embeddings · Information Extraction             |
+| **Generative AI**    | LLMs · RAG · LangChain · AI Agents · Prompt Engineering         |
+| **Data**             | Pandas · NumPy · Matplotlib · Plotly                            |
+| **MLOps**            | MLflow · Docker · CI/CD · GitHub Actions                        |
+| **Deployment**       | FastAPI · Streamlit · Render · Vercel · Hugging Face            |
+| **Research**         | Physiological Signals · HRV · Time-Series · Predictive Modeling |
+
+---
+
+# 📚 Research & Publications
+
+### 🌡️ IoT-enabled CNC Thermal Behavior Prediction
+
+**International Journal of Grid and Utility Computing**
+
+Hybrid deep-learning approach for thermal deformation prediction under variable thermal conditions.
+
+🔗 [Publication](https://doi.org/10.1504/ijguc.2024.10061721)
+
+
+
+# 🧠 Neural Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavankumarshridhar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarshridhar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1C&title_color=22D3EE&text_color=C9D1D9" width="30%"/>
+<img src="assets/neural-network.gif"
+  alt="Animated Neural Network"
+  width="85%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarshridhar31&theme=tokyonight&hide_border=true&background=0A0F1C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" width="60%"/>
+### `INPUT → REPRESENTATION → LEARNING → INFERENCE → DEPLOYMENT`
 
 </div>
 
-<br/>
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
+# 🔭 Current Focus
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    AI RESEARCH PIPELINE                 │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Physiological Data                                     │
+│          ↓                                              │
+│  Signal Processing                                      │
+│          ↓                                              │
+│  Feature Engineering                                    │
+│          ↓                                              │
+│  Machine Learning / Deep Learning                       │
+│          ↓                                              │
+│  Multimodal & Temporal Modeling                         │
+│          ↓                                              │
+│  Evaluation & Optimization                              │
+│          ↓                                              │
+│  MLOps / CI-CD                                          │
+│          ↓                                              │
+│  API / Cloud Deployment                                 │
+│          ↓                                              │
+│  Real-World AI System                                   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💡 Philosophy
 
 <div align="center">
 
-### ⚡ What I Work With
-
-`Python` → `Data` → `ML` → `Deep Learning` → `NLP` → `GenAI` → `Deployment`
+> **“Build models that learn.
+> Build systems that scale.
+> Build intelligence that creates impact.”**
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-## 📬 Let's Connect
-
-Interested in Data Science, Machine Learning, Deep Learning, NLP, Generative AI or research collaboration?
+---
 
 <div align="center">
 
-📧 **[pavankumarshridhar@gmail.com](mailto:pavankumarshridhar@gmail.com)**
+### 🧠 Connecting Data → Models → Systems → Intelligence
 
-<a href="https://github.com/Pavankumarshridhar31"><img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
-<a href="https://www.kaggle.com/pavankumar4757"><img src="https://img.shields.io/badge/Kaggle-0A0F1C?style=for-the-badge&logo=kaggle&logoColor=22D3EE" /></a>
-<a href="https://www.linkedin.com/in/pavan-kumar-shridhar"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=nXogY64AAAAJ&view_op=list_works"><img src="https://img.shields.io/badge/Google_Scholar-0A0F1C?style=for-the-badge&logo=googlescholar&logoColor=A78BFA" /></a>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0A0F1C&height=2&section=header)
-
-<div align="center">
-
-**Pavan Kumar S**
-
-*Data Scientist • AI/ML • Deep Learning • NLP • Generative AI*
-
-"Building intelligent systems from data."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer"/>
 
 </div>
