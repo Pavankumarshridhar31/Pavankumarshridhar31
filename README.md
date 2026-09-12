@@ -17,7 +17,12 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pavan+Kumar+S;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+AI+Systems+from+Data+to+Deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Pavan+Kumar+S;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+AI+Systems+from+Data+to+Deployment"
+alt="Typing SVG"/>
+
+
+
+
 
 <br/>
 
@@ -315,6 +320,8 @@ Published in the **International Journal of Grid and Utility Computing**.
 Hybrid deep-learning approach for thermal deformation prediction under variable thermal conditions.
 
 🔗 [Publication](https://doi.org/10.1504/ijguc.2024.10061721)
+
+---
 
 
 
