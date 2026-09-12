@@ -1,9 +1,7 @@
-<!-- NEURAL BANNER -->
 <p align="center">
   <img src="./assets/neural-network-banner.gif" alt="Data to Model to Inference to Insight" width="100%">
 </p>
 
-<!-- PROFILE AVATAR -->
 <p align="center">
   <img src="./assets/professional-avatar.gif" alt="Pavan Kumar S" width="180" style="border-radius: 50%;">
 </p>
@@ -11,7 +9,6 @@
   <code>● ACTIVE IN AI / DATA SCIENCE</code>
 </p>
 
-<!-- TOP HERO -->
 <h1 align="center">👋 Hi, I'm Pavan Kumar S</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | Deep Learning | NLP | Generative AI</h3>
 
@@ -19,7 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Data+Scientist;Deep+Learning+Engineer;NLP+%26+Generative+AI;Physiological+Data+Analytics;Machine+Learning+Researcher" alt="Typing SVG">
 </p>
 
-<!-- SOCIAL ICONS -->
 <p align="center">
   <a href="https://github.com/Pavankumarshridhar31"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/pavan-kumar-shridhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -31,7 +27,6 @@
 
 ---
 
-<!-- PROFESSIONAL SNAPSHOT -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Scientist-00F0FF?style=for-the-badge&logoColor=black" alt="Data Scientist">
   <img src="https://img.shields.io/badge/Deep_Learning-7B2CBF?style=for-the-badge&logoColor=white" alt="Deep Learning">
